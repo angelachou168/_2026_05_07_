@@ -1,0 +1,6 @@
+{
+  "name": "兩個班級_雙計時器賽事應用",
+  "description": "一個為比賽設計的雙計時器應用，提供兩個獨立控制的計時器，每個都有開始、暫停和重設功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
